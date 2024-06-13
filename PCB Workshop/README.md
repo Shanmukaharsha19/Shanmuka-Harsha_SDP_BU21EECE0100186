@@ -15,12 +15,8 @@
 7. Conclusion
 
 **Team Members:**
+ N. Harsha Vardhan - BU21EECE0100186
 
-1. K. Koushik - BU21EECE0100195
-2. J. Dheeraj - BU21EECE0100305
-3. N. Harsha Vardhan - BU21EECE0100186
-4. S. Moinuddhin - BU21EECE0100381
-5. M. Lok Vignesh - BU21EECE0100099
 
 **Introduction:**
 
